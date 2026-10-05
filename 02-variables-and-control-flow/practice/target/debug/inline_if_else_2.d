@@ -1,0 +1,1 @@
+/Users/test/Documents/RustFundamentalsJourney/02-variables-and-control-flow/practice/target/debug/inline_if_else_2: /Users/test/Documents/RustFundamentalsJourney/02-variables-and-control-flow/practice/src/bin/inline_if_else_2.rs

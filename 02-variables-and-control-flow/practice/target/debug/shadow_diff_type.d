@@ -1,0 +1,1 @@
+/Users/test/Documents/RustFundamentalsJourney/02-variables-and-control-flow/practice/target/debug/shadow_diff_type: /Users/test/Documents/RustFundamentalsJourney/02-variables-and-control-flow/practice/src/bin/shadow_diff_type.rs
