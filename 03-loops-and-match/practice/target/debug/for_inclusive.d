@@ -1,0 +1,1 @@
+/Users/test/Documents/RustFundamentalsJourney/03-loops-and-match/practice/target/debug/for_inclusive: /Users/test/Documents/RustFundamentalsJourney/03-loops-and-match/practice/src/bin/for_inclusive.rs
